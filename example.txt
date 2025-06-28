@@ -1,0 +1,4 @@
+This is a sample text file uploaded for Cloud Storage Task 1.
+- Internship Task
+- Uploaded to cloud
+- Public access configured
